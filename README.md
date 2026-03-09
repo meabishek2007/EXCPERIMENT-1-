@@ -247,7 +247,6 @@ These adapters consist of a short section of waveguide with a probe transition c
 <img width="253" height="248" alt="image" src="https://github.com/user-attachments/assets/ec4df7bd-1fb2-4d89-a6cf-d25731f34e45" />
 
 
-
 ## Conclusions:
 Thus,the experiment is studied and verified
 
